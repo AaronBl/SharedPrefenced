@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SharedPreferencesManager</string>
+    <string name="name">Name</string>
+    <string name="last_name">Last name</string>
+    <string name="email">Email</string>
+    <string name="age">Age</string>
+    <string name="save">SAVE</string>
+    <string name="welcome_message">Bienvenido al taller de Spora, por favor registra tus datos</string>
+</resources>
